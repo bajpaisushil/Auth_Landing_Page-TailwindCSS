@@ -31,5 +31,9 @@ Before you begin, ensure that you have the following installed on your machine:
    Now that you have the project set up, you can run the application:
    npm run dev
 
-5. Open your web browser and go to http://localhost:3000 to view the landing page.
+5. Click 'o' on the terminal where vite app is running or Just Open your web browser and go to http://localhost:5173 to view the landing page.
+
+Preview -
+
+![Screenshot 2023-12-13 224751](https://github.com/bajpaisushil/Auth_Landing_Page-TailwindCSS/assets/111970311/918ef0d4-e4c9-4e2e-b9b1-a2ee56908ad0)
 
